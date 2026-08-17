@@ -54,7 +54,7 @@ Belirtilen bir web sitesini tarayarak aynı domain içerisindeki sayfaları keş
 ### 1️⃣ **Repoyu Klonla**
 
 ```bash
-git clone https://github.com/KULLANICI_ADIN/W-Crawler.git
+git clone https://github.com/muhammetatillaltan-official/W-Crawler.git
 cd W-Crawler
 ```
 
